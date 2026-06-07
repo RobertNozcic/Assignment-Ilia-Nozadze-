@@ -1,0 +1,4 @@
+1, Master and Margarita, Mikhail Bulgakov, Book, 1967, Available, , 
+2, The Matrix, The Wachowskis, DVD, 1999, Borrowed, Giorgi, 2026-06-07
+3, National Geographic June, National Geographic, Magazine, 2026, Available, , 
+4, Artificial Intelligence in Libraries, Nino Beridze, Research Paper, 2024, Available, , 
