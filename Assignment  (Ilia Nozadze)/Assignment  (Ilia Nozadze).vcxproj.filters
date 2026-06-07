@@ -15,45 +15,45 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\Downloads\main.cpp">
+    <ClCompile Include="..\Book.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\Downloads\LibraryItem.cpp">
+    <ClCompile Include="..\DVD.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\Downloads\DVD.cpp">
+    <ClCompile Include="..\LibraryItem.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\Downloads\Book.cpp">
+    <ClCompile Include="..\LibrarySystem.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\Downloads\ResearchPaper.cpp">
+    <ClCompile Include="..\Magazine.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\Downloads\Magazine.cpp">
+    <ClCompile Include="..\main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\Downloads\LibrarySystem.cpp">
+    <ClCompile Include="..\ResearchPaper.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\..\..\Downloads\Magazine.h">
+    <ClInclude Include="..\Book.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\Downloads\ResearchPaper.h">
+    <ClInclude Include="..\DVD.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\Downloads\Book.h">
+    <ClInclude Include="..\LibraryItem.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\Downloads\DVD.h">
+    <ClInclude Include="..\LibrarySystem.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\Downloads\LibraryItem.h">
+    <ClInclude Include="..\Magazine.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\Downloads\LibrarySystem.h">
+    <ClInclude Include="..\ResearchPaper.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
